@@ -1,7 +1,7 @@
 {
   "name": "type-script",
   "version": "0.1.0",
-  "homepage": "https://cristinarits.github.io/type-script/",
+  "homepage": "https://cristinarits.github.io/type-script",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
